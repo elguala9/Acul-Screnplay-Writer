@@ -1,0 +1,13 @@
+[SceneHeading](INT., Giorno){Camper}
+[Action](){Fabio esce dal camper}
+
+[SceneHeading](EXT.){Parcheggio Camper - Giorno}
+[Action](){Fabio è davanti a Maurizio}
+[Dialogue](FABIO){Cosa ci fai qui?}
+[Dialogue](MAURIZIO){}
+[Parenthical](){Si guarda attorno}
+[Shot](){La telecamera fa vedere che non c'è nessuno attorno}
+[Dialogue](MAURIZIO){Sei nei guai}
+[Transition](){FADE OUT:}
+[UnformatteText](){}
+
